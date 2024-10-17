@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 8f3f5c954cac34d4599eb249be0dfc4e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 455
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d97db0a692694ab6f107d069f5689
+      internalID: 1183532728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2280
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d733ccb26d57946a4f121f6bfcf139
+      internalID: -1812879542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2280
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6b7f0cdc14ff45a5000d231eec83c
+      internalID: 2097235665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_3
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2280
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870c35fbe6da714cad9ab78d7b11566
+      internalID: -1690949591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_4
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2280
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b0174b3deb0e441bb74ef49d80234f
+      internalID: 1572958042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_5
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2280
+        width: 432
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea67330771bcd54280c654f45b4322b
+      internalID: 263418436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1826
+        width: 455
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b59aae5610fd040916fb198c2bfb20
+      internalID: 301136640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1826
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9683a4d48a70f24fbb3fd0b804fdee7
+      internalID: -1503678461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1826
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7840ef091eb9d8409e52271b53f2ab4
+      internalID: 30153692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_9
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1826
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d6efc7197df9449bd10e8793a97678
+      internalID: -1527738616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_10
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1826
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef862211f6e8a4b97dd4cde795ee90
+      internalID: 1133275294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1826
+        width: 432
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289124e226183246a50053a339ab3d0
+      internalID: 581555334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1373
+        width: 455
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298b000db27c7447af904e80bf50009
+      internalID: -820635181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1373
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87638cf2d80bc2345a52142eb9fe4dd7
+      internalID: -280701249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1373
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23914fc1ab082e469c6a108136780e7
+      internalID: -1739608457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_15
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1373
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb86e2589a8284c9d6362a4d8928ca
+      internalID: -300806048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_16
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1373
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af71aea56765e0b499976c6e7ddd2ab0
+      internalID: 1392251614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_17
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1373
+        width: 432
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d45d27e8301a846b2e9eb9f7fbd9ca
+      internalID: -136241979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 455
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc27e3a87c43e4da75b1c78fcea70d
+      internalID: 417656325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 920
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d6d6e121fb5a54886a41a5e6a001f9
+      internalID: -924235514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_20
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 920
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7c669aa8a15f45bf3fd0984aa0d51
+      internalID: -39975572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_21
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 920
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b192b20eab5eebe438f5a0135d741e71
+      internalID: 929927023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_22
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 920
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c7eddfd4d1374b8e38c76dff65422
+      internalID: 1038143501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_23
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 920
+        width: 432
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9684acf7e9cf184997cd930acaf1f03
+      internalID: -1164449196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 455
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875409f77707b9b4b8f80d6ae9254103
+      internalID: 530463254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 466
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6aa58fad11f24c89147483ef85244
+      internalID: -560765704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_26
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 466
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d959f84123254aabb04faf499525e
+      internalID: -343623210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_27
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 466
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ac8b97e97f7aa41aeb4b07e5cdd677
+      internalID: 1030116239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_28
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 466
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc8bafd3cedf64ea43cfcb1d0bbde1
+      internalID: -178321194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_29
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 466
+        width: 432
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd919f41cd548d6458e656f75ef98eb5
+      internalID: 1892174897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 455
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aa5daa1f7f0644aa5637be5b5f32c5
+      internalID: 999635051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_31
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 13
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779eff9eeb25b6e43bda6bd3f6105a49
+      internalID: 1265447157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_32
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 13
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f14d2b5716944491585b934bef0aa
+      internalID: -1085677045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_33
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 13
+        width: 434
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790012c11117ae8478c5fde0ece58fe0
+      internalID: 1465784255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_34
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 13
+        width: 433
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336156d27b1fb794c8c792d7bd4c4873
+      internalID: 586614375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tractor 36 sprites sheet sized_35
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 13
+        width: 432
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5b4c8f2975424fa6186b0ea0ea960
+      internalID: 1728438111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tractor 36 sprites sheet sized_0: 1183532728
+      tractor 36 sprites sheet sized_1: -1812879542
+      tractor 36 sprites sheet sized_10: 1133275294
+      tractor 36 sprites sheet sized_11: 581555334
+      tractor 36 sprites sheet sized_12: -820635181
+      tractor 36 sprites sheet sized_13: -280701249
+      tractor 36 sprites sheet sized_14: -1739608457
+      tractor 36 sprites sheet sized_15: -300806048
+      tractor 36 sprites sheet sized_16: 1392251614
+      tractor 36 sprites sheet sized_17: -136241979
+      tractor 36 sprites sheet sized_18: 417656325
+      tractor 36 sprites sheet sized_19: -924235514
+      tractor 36 sprites sheet sized_2: 2097235665
+      tractor 36 sprites sheet sized_20: -39975572
+      tractor 36 sprites sheet sized_21: 929927023
+      tractor 36 sprites sheet sized_22: 1038143501
+      tractor 36 sprites sheet sized_23: -1164449196
+      tractor 36 sprites sheet sized_24: 530463254
+      tractor 36 sprites sheet sized_25: -560765704
+      tractor 36 sprites sheet sized_26: -343623210
+      tractor 36 sprites sheet sized_27: 1030116239
+      tractor 36 sprites sheet sized_28: -178321194
+      tractor 36 sprites sheet sized_29: 1892174897
+      tractor 36 sprites sheet sized_3: -1690949591
+      tractor 36 sprites sheet sized_30: 999635051
+      tractor 36 sprites sheet sized_31: 1265447157
+      tractor 36 sprites sheet sized_32: -1085677045
+      tractor 36 sprites sheet sized_33: 1465784255
+      tractor 36 sprites sheet sized_34: 586614375
+      tractor 36 sprites sheet sized_35: 1728438111
+      tractor 36 sprites sheet sized_4: 1572958042
+      tractor 36 sprites sheet sized_5: 263418436
+      tractor 36 sprites sheet sized_6: 301136640
+      tractor 36 sprites sheet sized_7: -1503678461
+      tractor 36 sprites sheet sized_8: 30153692
+      tractor 36 sprites sheet sized_9: -1527738616
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

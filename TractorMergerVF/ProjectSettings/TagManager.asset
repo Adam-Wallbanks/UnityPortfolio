@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoints
+  - sp1
+  - sp2
+  - sp3
+  - sp4
+  - sp5
+  - sp6
+  - sp7
+  - sp8
+  - dress
+  - tractor
+  - sp9
+  - sp10
+  - sp11
+  - sp12
+  - target10
+  - target20
+  - target30
+  - target40
+  - target50
+  - target60
+  - target70
+  - target80
+  - target90
+  - target100
+  - target110
+  - target120
+  - target11
+  - target21
+  - target31
+  - target41
+  - target51
+  - target61
+  - target71
+  - target81
+  - target91
+  - target101
+  - target111
+  - target121
+  - target12
+  - target22
+  - target32
+  - target42
+  - target52
+  - target62
+  - target72
+  - target82
+  - target92
+  - target102
+  - target112
+  - target122
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1692760849
+    locked: 0

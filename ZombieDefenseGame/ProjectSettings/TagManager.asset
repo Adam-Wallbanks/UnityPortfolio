@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  - TileMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - everyting else
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: tileMap
+    uniqueID: 3180333523
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: everything else
+    uniqueID: 1185292005
+    locked: 0
+  - name: UI
+    uniqueID: 79924271
+    locked: 0
